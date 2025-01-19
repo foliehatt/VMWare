@@ -1,6 +1,7 @@
 # VMWare
 VMWare tips and tricks
-Reset VMWare vCenter account password
+
+WMVware vCenter password recovery
 1. Reboot VVSA.
 2. Hit "e" during Photon bootscreen.
 3. Append rw init=/bin/bash to the linux line.
